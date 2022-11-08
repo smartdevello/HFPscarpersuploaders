@@ -1,0 +1,5 @@
+geckodriver.log
+logs/
+__pycache__/
+pem
+AWS.txt
